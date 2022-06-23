@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208831736901",
+    "firebase_url": "https://whitelabel-promotor.firebaseio.com",
+    "project_id": "whitelabel-promotor",
+    "storage_bucket": "whitelabel-promotor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208831736901:android:b7768205cd90e87f48c72c",
+        "android_client_info": {
+          "package_name": "br.com.indgo.promotor.hanova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208831736901-v57fcrn20mr6056g0n9m98q5rm50drbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7e2_HD9qvpTFeJ--KKhasdKlxee8yzzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208831736901-v57fcrn20mr6056g0n9m98q5rm50drbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
